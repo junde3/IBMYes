@@ -11,8 +11,9 @@ on:
 jobs:
   ibm-cloud-restart:
     runs-on: ubuntu-latest
+    
 
-    steps:
+    steps: 
     - uses: actions/checkout@v2
       
       
